@@ -11,7 +11,7 @@
     text-align: center;
 }
 
-a {
+.recipe-card a {
     background-color: lightblue;
     color: black;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -21,5 +21,51 @@ a {
     margin: 16px auto;
     padding: 8px;
     text-decoration: none;
+}
+
+.img {
+    display: inline-block;
+}
+
+.description h3 {
+    margin: 0;
+    text-align: center;
+}
+
+.description {
+    display: inline-block;
+    width: 650px;
+    vertical-align: top;
+    padding: 8px;
+}
+
+.container {
+    border: 8px solid black;
+    width: 1000px;
+    margin: 0 auto;
+    padding: 8px;
+    background-color: aliceblue;
+}
+
+.heading {
+    text-align: center;
+}
+
+.incrediants ul {
+    vertical-align: top;
+    display: inline-block;
+    list-style-type: none;
+}
+
+.incrediants h3 {
+    text-align: center;
+}
+
+.incrediants {
+    padding: 8px;
+}
+
+.steps h3 {
+    text-align: center;
 }
 
