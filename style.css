@@ -1,0 +1,25 @@
+.recipe-card h1 {
+    text-transform: uppercase;
+    background-color: red;
+    margin: 16px auto;
+    padding: 8px;
+    width: fit-content;
+}
+
+.recipe-card {
+    margin: 50px auto;
+    text-align: center;
+}
+
+a {
+    background-color: lightblue;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    display: block;
+    width: fit-content;
+    margin: 16px auto;
+    padding: 8px;
+    text-decoration: none;
+}
+
